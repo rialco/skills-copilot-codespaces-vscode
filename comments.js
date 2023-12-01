@@ -1,4 +1,4 @@
-// create a web server
+// Create web server
 // 1. create a server
 // 2. start the server
 // 3. handle requests
